@@ -29,8 +29,8 @@ https://github.com/user-attachments/assets/c972e5e8-7923-4cdb-b56a-cc39f82d744c
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd ai_twitter_scraper
+git clone git@github.com:hiccup1202/twitter_clip_scraper.git
+cd twitter_clip_scraper
 ```
 
 2. Create and activate virtual environment:
