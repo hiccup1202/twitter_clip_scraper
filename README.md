@@ -15,7 +15,7 @@ A sophisticated Python tool that scrapes Twitter for video content, analyzes it 
 
 ## Demonstration
 
-https://github.com/user-attachments/assets/adaebb9e-5a61-43c3-b1f4-b8ec4e78481c
+https://github.com/user-attachments/assets/c972e5e8-7923-4cdb-b56a-cc39f82d744c
 
 ## Quick Start
 
